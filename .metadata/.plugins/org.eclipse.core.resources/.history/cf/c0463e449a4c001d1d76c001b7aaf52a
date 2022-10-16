@@ -1,0 +1,68 @@
+package oct_15;
+
+import java.util.Scanner;
+
+public class if_else_statements {
+
+	public static void main(String[] args) {
+		
+		 Scanner sc = new Scanner(System.in);
+	      System.out.println("Please enter first number: 10 ");
+	      int number1 = sc.nextInt();
+	      System.out.println("Please enter second number:20 ");
+	      int number2 = sc.nextInt();
+	      System.out.println("Please enter third number: 30 ");
+	      int number3 = sc.nextInt();
+	      System.out.println("Please enter fourth number: 40 ");
+	      int number4 = sc.nextInt();
+	      if(number1 > number2)
+	      {
+	         if(number1 > number3)
+	         {
+	            if(number1 > number4)
+	            {  
+	              }
+	         }
+	      }
+	      else if(number2 > number3)
+	      {
+	         if(number2 > number4)
+	         {
+	           
+	      }
+	      else if(number3 > number4)
+	    
+	    	  
+	      sc.close();	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		// TODO Auto-generated method stub
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

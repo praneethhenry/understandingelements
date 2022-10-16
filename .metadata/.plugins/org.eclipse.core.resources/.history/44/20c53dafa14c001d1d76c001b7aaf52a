@@ -1,0 +1,32 @@
+package oct_15;
+
+public class status }
+
+	public static void main(String[] args) {
+		///three types of variable s instant stacic and local
+		
+		
+int num = 23;
+
+boolean flag = false;
+for (int i = 2; i <= num / 2; ++i) {
+
+  if (num % i == 0) {
+    flag = true;
+    break;
+
+	//write code to determine if number is even or odd 
+	//write to dermine whether number is a prime number or not 
+		
+		
+		
+		
+		
+		
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package Automation_first_try;
+
+public class Email_websites {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

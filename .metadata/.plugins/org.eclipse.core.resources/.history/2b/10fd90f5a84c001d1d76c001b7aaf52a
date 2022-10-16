@@ -1,0 +1,21 @@
+package oct_15;
+
+public class while_loo {
+	
+	public static void main(String[] args) {
+		
+		//while loop is mostly used for infinite kind of a situation
+		
+		while (1<2)
+				System.out.println("logic is true");
+				
+				
+				
+				
+				
+
+
+	
+	}
+
+}

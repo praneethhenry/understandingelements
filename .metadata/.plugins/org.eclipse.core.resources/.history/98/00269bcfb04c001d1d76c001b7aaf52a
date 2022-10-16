@@ -1,0 +1,66 @@
+package oct_15;
+
+public class while_loo {
+	
+	public static void main(String[] args) {
+		
+		//while loop is mostly used for infinite kind of a situation
+		//while is repeated if statement
+		
+		//while (1<2)
+			//	System.out.println("logic is true");
+				
+		
+		
+		//int praneeth = 10;
+		//while ("praneeth" < 11)
+			//System.out.println("print the value :  ");
+		
+		 	
+		 		//int j = 5;
+		 		//while(j<=50) {
+		 			//System.out.print(j + " ");
+		 			//j++;
+		 	
+		
+		 		
+		 		
+		 		//int j = 5;
+		 		//while (j<=500) {
+		 			//System.out.print(j + " ");
+		 			//j=j+5;
+	}
+		 			
+		 			
+		 		int b = 5;
+		 		int sum = 0;
+		 		
+		 		while (b <=5*100) {
+		 			System.out.print(b+ " ");
+		 			sum=sum+b;
+		 		System.out.println("the addition is = " + sum);
+		 		b = b + 5;
+		 		
+		 			
+		 		
+	
+		 		}
+		 		
+	}
+//print 50 natrual numbbers using 50 natrual numbers 
+				
+				
+	        //Taking rows value from the user
+	         
+	       
+	         
+	        //Close the resources
+	         
+	      			
+				
+
+
+	
+	}
+
+}
